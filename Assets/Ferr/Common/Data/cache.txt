@@ -3,6 +3,7 @@
 Assets/Ferr/2DTerrain/TerrainMaterials/ForestTerrainMaterial.prefab
 Assets/Ferr/2DTerrain/TerrainMaterials/MossyTerrainMaterial.prefab
 Assets/Ferr/2DTerrain/TerrainMaterials/RockTerrainMaterial.prefab
+Assets/NewTerrainMaterial.prefab
 Assets/Ferr/2DTerrain/TerrainMaterials/PipeMaterial.prefab
 Assets/Art/Materials/Ferr2D/PavedRoad/PavedRoad.prefab
 Assets/Ferr/2DTerrain/TerrainMaterials/CaveTerrainMaterial.prefab
@@ -10,7 +11,6 @@ Assets/Art/Materials/Ferr2D/City/CityDemoEdge.prefab
 Assets/Ferr/2DTerrain/TerrainMaterials/ForegroundTerrainMaterial.prefab
 Assets/Ferr/2DTerrain/TerrainMaterials/SandTerrainMaterial.prefab
 Assets/Art/Materials/Ferr2D/HauntedCity/HauntedCityDemoEdge.prefab
-Assets/NewTerrainMaterial.prefab
 
 [Ferr2DT_PathTerrain]
 Assets/Prefabs/Gameplay/Environment/CityGround.prefab
